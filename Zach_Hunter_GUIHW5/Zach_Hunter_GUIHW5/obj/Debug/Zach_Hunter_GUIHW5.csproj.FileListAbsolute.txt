@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\bin\Debug\Zach_Hunter_GUIHW5.exe.config
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\bin\Debug\Zach_Hunter_GUIHW5.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\bin\Debug\Zach_Hunter_GUIHW5.pdb
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\obj\Debug\Zach_Hunter_GUIHW5.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\obj\Debug\Zach_Hunter_GUIHW5.Form1.resources
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\obj\Debug\Zach_Hunter_GUIHW5.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\obj\Debug\Zach_Hunter_GUIHW5.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\obj\Debug\Zach_Hunter_GUIHW5.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW5\Zach_Hunter_GUIHW5\obj\Debug\Zach_Hunter_GUIHW5.pdb

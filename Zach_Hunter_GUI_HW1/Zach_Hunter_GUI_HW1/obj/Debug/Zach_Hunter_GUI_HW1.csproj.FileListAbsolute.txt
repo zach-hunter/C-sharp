@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\bin\Debug\Zach_Hunter_GUI_HW1.exe.config
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\bin\Debug\Zach_Hunter_GUI_HW1.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\bin\Debug\Zach_Hunter_GUI_HW1.pdb
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\obj\Debug\Zach_Hunter_GUI_HW1.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\obj\Debug\Zach_Hunter_GUI_HW1.ScoreCalculator.resources
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\obj\Debug\Zach_Hunter_GUI_HW1.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\obj\Debug\Zach_Hunter_GUI_HW1.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\obj\Debug\Zach_Hunter_GUI_HW1.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUI_HW1\Zach_Hunter_GUI_HW1\obj\Debug\Zach_Hunter_GUI_HW1.pdb

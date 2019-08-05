@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\bin\Debug\Zach_Hunter_GUIHW2.exe.config
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\bin\Debug\Zach_Hunter_GUIHW2.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\bin\Debug\Zach_Hunter_GUIHW2.pdb
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\obj\Debug\Zach_Hunter_GUIHW2.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\obj\Debug\Zach_Hunter_GUIHW2.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\obj\Debug\Zach_Hunter_GUIHW2.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\obj\Debug\Zach_Hunter_GUIHW2.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\obj\Debug\Zach_Hunter_GUIHW2.pdb
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW2\Zach_Hunter_GUIHW2\obj\Debug\Zach_Hunter_GUIHW2.ISBNChecker.resources

@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\bin\Debug\Zach_Hunter_GUIHW4.exe.config
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\bin\Debug\Zach_Hunter_GUIHW4.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\bin\Debug\Zach_Hunter_GUIHW4.pdb
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\obj\Debug\Zach_Hunter_GUIHW4.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\obj\Debug\Zach_Hunter_GUIHW4.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\obj\Debug\Zach_Hunter_GUIHW4.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\obj\Debug\Zach_Hunter_GUIHW4.exe
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\obj\Debug\Zach_Hunter_GUIHW4.pdb
+d:\documents\visual studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\obj\Debug\Zach_Hunter_GUIHW4.CalculatorApp.resources
+D:\Documents\Visual Studio 2015\Projects\Zach_Hunter_GUIHW4\Zach_Hunter_GUIHW4\obj\Debug\Zach_Hunter_GUIHW4.History.resources
